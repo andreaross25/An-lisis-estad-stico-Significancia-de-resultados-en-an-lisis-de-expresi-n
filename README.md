@@ -1,6 +1,6 @@
 # Prueba estadística para conocer la sigificancia de resultados en análisis de expresión
 Script sencillo para determinar si la expresión de genes (o miRNAs) es significativa.
-El archivo de entrada debe ser un archivo csv con los datos del log base 2 de la expresión normalizada (veáse archivo muestra)
+El archivo de entrada debe ser un archivo csv con los datos del log base 2 de la expresión normalizada (veáse archivo muestra: EPCM)
 
 1. Reemplazar la ruta en la cual se encuentre el archivo csv del cual se extraerán los datos
 2. Reemplazar la cantidad de genes a correr
